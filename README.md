@@ -1,0 +1,2 @@
+# SampleHotel
+SimpleFuntime 
